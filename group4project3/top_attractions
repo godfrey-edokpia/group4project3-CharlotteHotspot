@@ -1,0 +1,440 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>locations</th>
+      <th>address</th>
+      <th>lat</th>
+      <th>lon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Carowinds</td>
+      <td>300 Carowinds Blvd, Charlotte, NC 28273</td>
+      <td>35.104223</td>
+      <td>-80.942811</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>U.S. National Whitewater Center</td>
+      <td>5000 Whitewater Center Pkwy, Charlotte, NC 28214</td>
+      <td>35.280574</td>
+      <td>-80.986994</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>NASCAR Hall of Fame</td>
+      <td>400 E M.L.K. Jr Blvd, Charlotte, NC 28202</td>
+      <td>35.221325</td>
+      <td>-80.843408</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Discovery Place Science</td>
+      <td>301 N Tryon St, Charlotte, NC 28202</td>
+      <td>35.229298</td>
+      <td>-80.840806</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Billy Graham Library</td>
+      <td>4330 Westmont Dr, Charlotte, NC 28217</td>
+      <td>35.190373</td>
+      <td>-80.909281</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Daniel Stowe Botanical Garden</td>
+      <td>6500 S New Hope Rd, Belmont, NC 28012</td>
+      <td>35.167660</td>
+      <td>-81.056866</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Freedom Park</td>
+      <td>1908 East Blvd, Charlotte, NC 28203</td>
+      <td>35.196300</td>
+      <td>-80.838645</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Mint Museum Randolph</td>
+      <td>2730 Randolph Rd, Charlotte, NC 28207</td>
+      <td>35.197342</td>
+      <td>-80.814681</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Bechtler Museum of Modern Art</td>
+      <td>420 S Tryon St, Charlotte, NC 28202</td>
+      <td>35.224565</td>
+      <td>-80.847423</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>The Fury 325</td>
+      <td>300 Carowinds Blvd, Charlotte, SC 28273</td>
+      <td>35.104223</td>
+      <td>-80.942811</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>SEA LIFE Centre Charlotte</td>
+      <td>8111 Concord Mills Boulevard, Concord, NC 28027</td>
+      <td>35.370069</td>
+      <td>-80.723930</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Discovery Place Nature</td>
+      <td>1658 Sterling Rd, Charlotte, NC 28209</td>
+      <td>35.188181</td>
+      <td>-80.843704</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>McDowell Nature Preserve</td>
+      <td>15222 York Rd, Charlotte, NC 28278</td>
+      <td>35.096093</td>
+      <td>-81.023133</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Levine Museum of the New South</td>
+      <td>200 E 7th St, Charlotte, NC 28202</td>
+      <td>35.228119</td>
+      <td>-80.838730</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Carolina Raptor Center</td>
+      <td>6000 Sample Rd, Huntersville, NC 28078</td>
+      <td>35.350345</td>
+      <td>-80.918419</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>ImaginOn: The Joe &amp; Joan Martin Center</td>
+      <td>300 E 7th St, Charlotte, NC 28202</td>
+      <td>35.227018</td>
+      <td>-80.837692</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Latta Place</td>
+      <td>5225 Sample Rd, Huntersville, NC 28078</td>
+      <td>35.354958</td>
+      <td>-80.930662</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Mint Museum UPTOWN</td>
+      <td>500 S Tryon St, Charlotte, NC 28202</td>
+      <td>35.224305</td>
+      <td>-80.848151</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Harvey B. Gantt Center for African-American Ar...</td>
+      <td>551 S Tryon St, Charlotte, NC 28202</td>
+      <td>35.223134</td>
+      <td>-80.847953</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Camp Snoopy</td>
+      <td>14523 Carowinds Blvd, Fort Mill, SC 28273</td>
+      <td>35.102469</td>
+      <td>-80.941329</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Ray's Splash Planet</td>
+      <td>215 N Sycamore St, Charlotte, NC 28202</td>
+      <td>35.238116</td>
+      <td>-80.851303</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Latta Plantation Nature Preserve</td>
+      <td>6211 Sample Rd, Huntersville, NC 28078</td>
+      <td>35.355893</td>
+      <td>-80.909864</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Romare Bearden Park</td>
+      <td>300 S Church St, Charlotte, NC 28202</td>
+      <td>35.226967</td>
+      <td>-80.847322</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>UNC Charlotte Botanical Gardens</td>
+      <td>9090 Craver Rd, Charlotte, NC 28262</td>
+      <td>35.307810</td>
+      <td>-80.729692</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Reedy Creek Nature Center &amp; Nature Preserve</td>
+      <td>2900 Rocky River Rd, Charlotte, NC 28215</td>
+      <td>35.276704</td>
+      <td>-80.716635</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>The Charlotte Museum of History</td>
+      <td>3500 Shamrock Dr, Charlotte, NC 28215</td>
+      <td>35.233535</td>
+      <td>-80.766542</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Little Sugar Creek Greenway</td>
+      <td>1133 Metropolitan Ave, Charlotte, NC 28204</td>
+      <td>35.211682</td>
+      <td>-80.835545</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Discovery Place Kids-Huntersville</td>
+      <td>105 Gilead Rd, Huntersville, NC 28078</td>
+      <td>35.410499</td>
+      <td>-80.843617</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Intimidator</td>
+      <td>14523 Carowinds Blvd, Charlotte, NC 28273</td>
+      <td>35.103266</td>
+      <td>-80.943712</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Frank Liske Park</td>
+      <td>4001 Stough Rd, Concord, NC 28027</td>
+      <td>35.359447</td>
+      <td>-80.624588</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>Copperhead Island</td>
+      <td>15265 Soldier Rd, Charlotte, NC 28278</td>
+      <td>35.106777</td>
+      <td>-81.027151</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Thomas McAlister Winget Park</td>
+      <td>12025 Winget Rd, Charlotte, NC 28278</td>
+      <td>35.135626</td>
+      <td>-81.002422</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Stallings Municipal Park</td>
+      <td>340 Stallings Rd, Stallings, NC 28104</td>
+      <td>35.087463</td>
+      <td>-80.692953</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Four Mile Creek Greenway, Matthews</td>
+      <td>1102 E John St, Matthews, NC 28105</td>
+      <td>35.105924</td>
+      <td>-80.712105</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Big Rock Nature Preserve</td>
+      <td>6500 Elmstone Dr, Charlotte, NC 28277</td>
+      <td>35.061696</td>
+      <td>-80.826982</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Clark's Creek Nature Preserve</td>
+      <td>5542 Hucks Rd, Charlotte, NC 28269</td>
+      <td>35.354041</td>
+      <td>-80.807889</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Fourth Ward Park</td>
+      <td>301 N Poplar St, Charlotte, NC 28202</td>
+      <td>35.231010</td>
+      <td>-80.842791</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Codescape</td>
+      <td>933 Louise Ave #201, Charlotte, NC 28204</td>
+      <td>35.224707</td>
+      <td>-80.820737</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>NASCAR Racing Experience</td>
+      <td>6025 Victory Ln, Concord, NC 28027</td>
+      <td>35.344061</td>
+      <td>-80.676166</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Sherman Branch Mountain Biking Park</td>
+      <td>12435 Rocky River Church Rd, Charlotte, NC 28215</td>
+      <td>35.236406</td>
+      <td>-80.632930</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Bradford Park</td>
+      <td>17005 Davidson-Concord Rd, Huntersville, NC 28078</td>
+      <td>35.445721</td>
+      <td>-80.791096</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>St. Peter Catholic Church</td>
+      <td>507 S Tryon St, Charlotte, NC 28210</td>
+      <td>35.223930</td>
+      <td>-80.847328</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>Portal Charlotte</td>
+      <td>114 S Tryon St, Charlotte, NC 28202</td>
+      <td>35.227001</td>
+      <td>-80.843898</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>Canaan Zipline Canopy Tours</td>
+      <td>3111 Sand Island Rd, Rock Hill, SC 29732</td>
+      <td>35.013084</td>
+      <td>-81.000229</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>Trade and Tryon Streets</td>
+      <td>100 N Tryon St, Charlotte, NC 28202</td>
+      <td>35.227753</td>
+      <td>-80.842882</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>Festival Of India</td>
+      <td>130 N Tryon St, Charlotte, NC 28202</td>
+      <td>35.227554</td>
+      <td>-80.841754</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>Latta Park</td>
+      <td>601 E Park Ave, Charlotte, NC 28203</td>
+      <td>35.209631</td>
+      <td>-80.850742</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>Seven Oaks Preserve Trail</td>
+      <td>6900 S New Hope Rd, Belmont, NC 28012</td>
+      <td>35.156639</td>
+      <td>-81.051549</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>Huntersville Athletic Park</td>
+      <td>11720 Verhoeff Dr, Huntersville, NC 28078</td>
+      <td>35.390351</td>
+      <td>-80.844910</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>Squirrel Lake Park</td>
+      <td>1631 Pleasant Plains Rd, Matthews, NC 28105</td>
+      <td>35.099690</td>
+      <td>-80.723066</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>K1 Speed - Indoor Go Karts, Corporate Event Ve...</td>
+      <td>800 Derita Rd #K, Concord, NC 28027</td>
+      <td>35.403455</td>
+      <td>-80.715724</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>McAlpine Creek Greenway Parking and Rest Area</td>
+      <td>11817 Johnston Rd, Charlotte, NC 28226</td>
+      <td>35.076675</td>
+      <td>-80.840883</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>Independence Park</td>
+      <td>300 Hawthorne Ln, Charlotte, NC 28204</td>
+      <td>35.214054</td>
+      <td>-80.823376</td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>Discovery Place Science Parking Deck</td>
+      <td>220 W 6th St, Charlotte, NC 28202</td>
+      <td>35.230385</td>
+      <td>-80.841671</td>
+    </tr>
+    <tr>
+      <th>54</th>
+      <td>Four Mile Creek Greenway</td>
+      <td>5803 Bevington Pl, Charlotte, NC 28277</td>
+      <td>35.077438</td>
+      <td>-80.817714</td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>Exit Strategy</td>
+      <td>4215 Stuart Andrew Blvd B, Charlotte, NC 28217</td>
+      <td>35.190118</td>
+      <td>-80.887845</td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>Clark's Creek Greenway</td>
+      <td>9729 Mallard Creek Rd, Charlotte, NC 28267</td>
+      <td>35.334490</td>
+      <td>-80.773601</td>
+    </tr>
+    <tr>
+      <th>57</th>
+      <td>Kate's Skating Rinks</td>
+      <td>14500 E Independence Blvd, Indian Trail, NC 28079</td>
+      <td>35.077345</td>
+      <td>-80.654465</td>
+    </tr>
+    <tr>
+      <th>58</th>
+      <td>Hearst Tower</td>
+      <td>214 N Tryon St, Charlotte, NC 28202</td>
+      <td>35.227998</td>
+      <td>-80.841347</td>
+    </tr>
+    <tr>
+      <th>59</th>
+      <td>RibbonWalk Nature Preserve</td>
+      <td>4601 Nevin Rd, Charlotte, NC 28269</td>
+      <td>35.294230</td>
+      <td>-80.819972</td>
+    </tr>
+    <tr>
+      <th>60</th>
+      <td>Camp North End</td>
+      <td>1824 Statesville Ave, Charlotte, NC 28206</td>
+      <td>35.247618</td>
+      <td>-80.832394</td>
+    </tr>
+  </tbody>
+</table>

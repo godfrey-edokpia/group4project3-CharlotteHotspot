@@ -1,0 +1,342 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>latitude</th>
+      <th>longitude</th>
+      <th>categories</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Abugida Ethiopian Cafe &amp; Resturant</td>
+      <td>35.217977</td>
+      <td>-80.793942</td>
+      <td>Restaurants;Ethiopian</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Ari's Pizza</td>
+      <td>35.249514</td>
+      <td>-80.779849</td>
+      <td>Restaurants;Pizza</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Balu's Biryani</td>
+      <td>35.227087</td>
+      <td>-80.843127</td>
+      <td>Restaurants;Indian;Caterers;Event Planning &amp; S...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Big City Grill</td>
+      <td>35.249536</td>
+      <td>-80.778819</td>
+      <td>Burgers;American (Traditional);Hot Dogs;Greek;...</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Chili Man</td>
+      <td>35.226911</td>
+      <td>-80.843823</td>
+      <td>Food;Street Vendors;Restaurants;Hot Dogs</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Catch On Seafood Market</td>
+      <td>35.219101</td>
+      <td>-80.813800</td>
+      <td>Grocery;Food;Specialty Food;Seafood Markets;Se...</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Cheese Steak Place</td>
+      <td>35.339622</td>
+      <td>-80.834145</td>
+      <td>Sandwiches;Restaurants</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Chicken King</td>
+      <td>35.241139</td>
+      <td>-80.858293</td>
+      <td>American (New);Southern;Restaurants</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Chicken King</td>
+      <td>35.255887</td>
+      <td>-80.874631</td>
+      <td>Greek;Restaurants;Burgers;Hot Dogs;Salad;Seafo...</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>China Bowl Express</td>
+      <td>35.239019</td>
+      <td>-80.883929</td>
+      <td>Chinese;Restaurants</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Cluck 'N Cup</td>
+      <td>35.218158</td>
+      <td>-80.856726</td>
+      <td>Sandwiches;Coffee &amp; Tea;Restaurants;Food;Desserts</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Competition Dining: Fire in the City</td>
+      <td>35.209853</td>
+      <td>-80.857253</td>
+      <td>American (New);Festivals;Restaurants;Arts &amp; En...</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Enat Ethiopian Restaurant</td>
+      <td>35.249632</td>
+      <td>-80.778852</td>
+      <td>African;Vegetarian;American (New);Ethiopian;Fo...</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Flagstones</td>
+      <td>35.152878</td>
+      <td>-80.837021</td>
+      <td>American (Traditional);Restaurants</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Fresh Med Food Truck</td>
+      <td>35.215071</td>
+      <td>-80.829475</td>
+      <td>Food;Mediterranean;Restaurants;Greek;Portugues...</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>HoneyBaked Ham</td>
+      <td>35.296844</td>
+      <td>-80.758886</td>
+      <td>Delis;Event Planning &amp; Services;Restaurants;Sp...</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Jaylas Gluten Free Cafe</td>
+      <td>35.167461</td>
+      <td>-80.849105</td>
+      <td>Restaurants;Gluten-Free</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Katz Deli</td>
+      <td>35.054324</td>
+      <td>-80.815462</td>
+      <td>Bagels;Food;Restaurants;Delis;Sandwiches;Ameri...</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>La Espiga</td>
+      <td>35.259052</td>
+      <td>-80.782126</td>
+      <td>Restaurants;Bakeries;Cafeteria;Churros;Comfort...</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Larry's Restaurant Fish and Seafood House</td>
+      <td>35.203338</td>
+      <td>-80.744012</td>
+      <td>Caterers;Comfort Food;Seafood;Vegetarian;Resta...</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Laurene's Cafeteria</td>
+      <td>35.273152</td>
+      <td>-80.854006</td>
+      <td>Restaurants;Food;Cafes</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Marcos Pizza</td>
+      <td>35.041713</td>
+      <td>-80.850994</td>
+      <td>Pizza;Restaurants</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>MI Barrio's Halal Food Cart</td>
+      <td>35.305376</td>
+      <td>-80.724252</td>
+      <td>Halal;Food;Food Trucks;Restaurants</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Midwood Pies</td>
+      <td>35.226371</td>
+      <td>-80.799019</td>
+      <td>Bakeries;Food;Restaurants;Comfort Food;Desserts</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Mojo's Famous Hot Dogs</td>
+      <td>35.277920</td>
+      <td>-80.834932</td>
+      <td>Food;American (New);Street Vendors;Restaurants...</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Mr Tokyo Japanese Restaurant</td>
+      <td>35.373430</td>
+      <td>-80.789670</td>
+      <td>Japanese;Salad;Restaurants;Sushi Bars</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Natural Blendz</td>
+      <td>35.135564</td>
+      <td>-80.738002</td>
+      <td>Food;Cafes;Sandwiches;Vegetarian;Soup;Juice Ba...</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Nicks Steak and Taphouse</td>
+      <td>35.227392</td>
+      <td>-80.839075</td>
+      <td>Restaurants;Steakhouses</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Nile Ethiopian Restaurant &amp; Grocery</td>
+      <td>35.202697</td>
+      <td>-80.760973</td>
+      <td>Ethiopian;Food;Grocery;Restaurants</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Papa Murphy's</td>
+      <td>35.373134</td>
+      <td>-80.788327</td>
+      <td>Restaurants;Gluten-Free;Pizza</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>Potbelly BBQ</td>
+      <td>35.214659</td>
+      <td>-80.859919</td>
+      <td>Restaurants;Barbeque;Food Trucks;Event Plannin...</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Reign Restaurant &amp; Lounge</td>
+      <td>35.225217</td>
+      <td>-80.836289</td>
+      <td>Restaurants;Tapas/Small Plates;Nightlife;Cockt...</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Spicy Sunshine</td>
+      <td>35.306519</td>
+      <td>-80.840890</td>
+      <td>Sandwiches;Restaurants;Caterers;Delis;Event Pl...</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Stella's Cafe</td>
+      <td>35.104564</td>
+      <td>-80.988640</td>
+      <td>American (Traditional);Cafes;Restaurants</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Switchin' Kitchens</td>
+      <td>35.039409</td>
+      <td>-80.793697</td>
+      <td>Restaurants;Vegetarian;Food;American (Traditio...</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>T2C Smokehouse</td>
+      <td>35.335253</td>
+      <td>-80.799019</td>
+      <td>Steakhouses;Party &amp; Event Planning;Food Trucks...</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Tacos Rick-O</td>
+      <td>35.197204</td>
+      <td>-80.799947</td>
+      <td>Food;Mexican;Restaurants;Food Trucks</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Tamales La Pasadita</td>
+      <td>35.239137</td>
+      <td>-80.798315</td>
+      <td>Latin American;Tacos;Restaurants;Mexican</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>Taqueria Los Altos</td>
+      <td>35.152222</td>
+      <td>-80.745487</td>
+      <td>Mexican;Restaurants</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Tatsis Restaurant</td>
+      <td>35.250597</td>
+      <td>-80.827078</td>
+      <td>American (Traditional);Restaurants</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>The Cookin Coop</td>
+      <td>35.227087</td>
+      <td>-80.843127</td>
+      <td>Breakfast &amp; Brunch;Food;Burgers;Fast Food;Rest...</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>The GyroMan</td>
+      <td>35.232678</td>
+      <td>-80.846082</td>
+      <td>Mediterranean;Halal;Food Stands;Restaurants;Gr...</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>The Naked Tart, LLC</td>
+      <td>35.226371</td>
+      <td>-80.799019</td>
+      <td>Caterers;Specialty Food;Health Markets;Event P...</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>The Tasty Bowl Subs N Such</td>
+      <td>35.132832</td>
+      <td>-80.952928</td>
+      <td>Restaurants;Fast Food;Caribbean;Mexican;Thai;I...</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>Verona</td>
+      <td>35.228365</td>
+      <td>-80.842652</td>
+      <td>Restaurants;Italian</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>Waiter's Choice Catering</td>
+      <td>35.134436</td>
+      <td>-80.908506</td>
+      <td>Caterers;Active Life;Professional Services;Per...</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>Yesteryears Goodtime Pub</td>
+      <td>35.194894</td>
+      <td>-80.767442</td>
+      <td>Bars;American (Traditional);Restaurants;Nightl...</td>
+    </tr>
+  </tbody>
+</table>

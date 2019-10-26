@@ -1,0 +1,699 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>location</th>
+      <th>lat</th>
+      <th>lon</th>
+      <th>category</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>LaSalle Street</td>
+      <td>35.262980</td>
+      <td>-80.854700</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Russell Av</td>
+      <td>35.257030</td>
+      <td>-80.855580</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Booker Avenue/Oaklawn</td>
+      <td>35.253800</td>
+      <td>-80.855970</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>French Street</td>
+      <td>35.246850</td>
+      <td>-80.856790</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Johnson C. Smith University</td>
+      <td>35.241730</td>
+      <td>-80.858690</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Bruns Avenue</td>
+      <td>35.240260</td>
+      <td>-80.858430</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Wesley Heights Way</td>
+      <td>35.237100</td>
+      <td>-80.858660</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Johnson &amp; Wales</td>
+      <td>35.233800</td>
+      <td>-80.851130</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Charlotte Gateway Station</td>
+      <td>35.231310</td>
+      <td>-80.847730</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Mint Street</td>
+      <td>35.229420</td>
+      <td>-80.845660</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Tryon Street</td>
+      <td>35.227200</td>
+      <td>-80.843070</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Hawthorne and 5th</td>
+      <td>35.232850</td>
+      <td>-80.811080</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Veterans Park</td>
+      <td>35.219740</td>
+      <td>-80.804090</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Morningside Drive</td>
+      <td>35.219300</td>
+      <td>-80.799230</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Arnold Drive</td>
+      <td>35.217960</td>
+      <td>-80.794400</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Briar Creek Road</td>
+      <td>35.216950</td>
+      <td>-80.790930</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Eastway Drive</td>
+      <td>35.215530</td>
+      <td>-80.780650</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Sheridan Drive</td>
+      <td>35.214480</td>
+      <td>-80.772860</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Derby Acres</td>
+      <td>35.213740</td>
+      <td>-80.770260</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Landsdale Dr/Rosehaven Dr</td>
+      <td>35.212470</td>
+      <td>-80.764330</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Winterfield Place</td>
+      <td>35.210820</td>
+      <td>-80.759110</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Eastland Mall</td>
+      <td>35.192990</td>
+      <td>-80.761050</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Elizabeth and Hawthorne</td>
+      <td>35.212900</td>
+      <td>-80.825590</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Eastway Crossing</td>
+      <td>35.215910</td>
+      <td>-80.784470</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Barnhardt</td>
+      <td>35.221320</td>
+      <td>-80.818540</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Rosa Parks Place</td>
+      <td>35.273200</td>
+      <td>-80.854410</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Montana Dr</td>
+      <td>35.268280</td>
+      <td>-80.854000</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>CTC/Arena</td>
+      <td>35.225450</td>
+      <td>-80.840740</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Davidson St</td>
+      <td>35.222900</td>
+      <td>-80.838010</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Central Piedmont Community College</td>
+      <td>35.202720</td>
+      <td>-80.829710</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>McDowell Street</td>
+      <td>35.221220</td>
+      <td>-80.836080</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Hawthorne and 8th</td>
+      <td>35.232850</td>
+      <td>-80.811080</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>The Plaza</td>
+      <td>35.220260</td>
+      <td>-80.810800</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Sunnyside</td>
+      <td>35.219810</td>
+      <td>-80.818810</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Irwin Avenue</td>
+      <td>35.234770</td>
+      <td>-80.852460</td>
+      <td>Gold</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Carson</td>
+      <td>35.218905</td>
+      <td>-80.851835</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Charlotte Transportation Center/Arena</td>
+      <td>35.225510</td>
+      <td>-80.840870</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>I-485/South Blvd</td>
+      <td>35.106879</td>
+      <td>-80.882237</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>Sharon Road West</td>
+      <td>35.119992</td>
+      <td>-80.882237</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Arrowood</td>
+      <td>35.134202</td>
+      <td>-80.876641</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Archdale</td>
+      <td>35.150680</td>
+      <td>-80.876791</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Tyvola</td>
+      <td>35.162137</td>
+      <td>-80.877838</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>Woodlawn</td>
+      <td>35.176200</td>
+      <td>-80.879288</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>Scaleybark</td>
+      <td>35.192032</td>
+      <td>-80.875522</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>New Bern</td>
+      <td>35.199771</td>
+      <td>-80.868959</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>East/West</td>
+      <td>35.212430</td>
+      <td>-80.858862</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>Bland St</td>
+      <td>35.215676</td>
+      <td>-80.855332</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>3rd St/Convention Center</td>
+      <td>35.222255</td>
+      <td>-80.845430</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>7th St</td>
+      <td>35.227316</td>
+      <td>-80.838126</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>Stonewall</td>
+      <td>35.221287</td>
+      <td>-80.846994</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>9th Street</td>
+      <td>35.229536</td>
+      <td>-80.835229</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>Parkwood</td>
+      <td>35.236962</td>
+      <td>-80.823927</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>25th Street</td>
+      <td>35.241293</td>
+      <td>-80.817357</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>36th Street</td>
+      <td>35.249322</td>
+      <td>-80.806048</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>54</th>
+      <td>Tom Hunter</td>
+      <td>35.277708</td>
+      <td>-80.766727</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>JW Clay Blvd</td>
+      <td>35.309976</td>
+      <td>-80.746262</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>Old Concord Rd</td>
+      <td>35.262086</td>
+      <td>-80.772476</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>57</th>
+      <td>Sugar Creek</td>
+      <td>35.251674</td>
+      <td>-80.791219</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>58</th>
+      <td>UNC Charlotte</td>
+      <td>35.311731</td>
+      <td>-80.733763</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>59</th>
+      <td>University City Blvd</td>
+      <td>35.286747</td>
+      <td>-80.761149</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>60</th>
+      <td>McCullough</td>
+      <td>35.300709</td>
+      <td>-80.753453</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <th>61</th>
+      <td>Third Ward / McNinch St</td>
+      <td>35.229035</td>
+      <td>-80.856080</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>62</th>
+      <td>Ashley Rd</td>
+      <td>35.224265</td>
+      <td>-80.890130</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>Airport</td>
+      <td>35.235490</td>
+      <td>-80.943588</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>64</th>
+      <td>West Morehead St / Suttle Ave</td>
+      <td>35.223260</td>
+      <td>-80.872308</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>65</th>
+      <td>Belmont</td>
+      <td>35.251334</td>
+      <td>-81.026513</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>66</th>
+      <td>Matthews Sportsplex</td>
+      <td>35.112094</td>
+      <td>-80.705134</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>67</th>
+      <td>Sam Wilson</td>
+      <td>35.241679</td>
+      <td>-80.982630</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>68</th>
+      <td>Coliseum / Ovens</td>
+      <td>35.203716</td>
+      <td>-80.796081</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>69</th>
+      <td>Fourth Ward / Graham St</td>
+      <td>35.235328</td>
+      <td>-80.841899</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>70</th>
+      <td>Matthews Township Parkway</td>
+      <td>35.126350</td>
+      <td>-80.728251</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>71</th>
+      <td>Charlotte Gateway Station</td>
+      <td>35.230986</td>
+      <td>-80.848431</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>72</th>
+      <td>Village Lake Dr</td>
+      <td>35.158047</td>
+      <td>-80.748703</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>73</th>
+      <td>Stafford Dr</td>
+      <td>35.233670</td>
+      <td>-80.931918</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>74</th>
+      <td>Pecan Ave</td>
+      <td>35.218073</td>
+      <td>-80.814799</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td>Central Ave</td>
+      <td>35.220877</td>
+      <td>-80.826314</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>76</th>
+      <td>Conference Dr</td>
+      <td>35.181798</td>
+      <td>-80.755695</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td>CPCC Levine</td>
+      <td>35.103324</td>
+      <td>-80.697421</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>78</th>
+      <td>Morningside Dr</td>
+      <td>35.213283</td>
+      <td>-80.803436</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>79</th>
+      <td>Sardis Rd / Galleria</td>
+      <td>35.136414</td>
+      <td>-80.737754</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td>Matthews Downtown / Hospital</td>
+      <td>35.119506</td>
+      <td>-80.716414</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td>Remont Rd</td>
+      <td>35.224018</td>
+      <td>-80.883211</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>82</th>
+      <td>Wesley Heights / Summit Ave</td>
+      <td>35.226933</td>
+      <td>-80.864846</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>83</th>
+      <td>Morris Field Dr</td>
+      <td>35.226823</td>
+      <td>-80.911246</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>84</th>
+      <td>Sharon Amity Rd</td>
+      <td>35.193655</td>
+      <td>-80.766284</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>85</th>
+      <td>Amity Gardens</td>
+      <td>35.200974</td>
+      <td>-80.779285</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>86</th>
+      <td>I-485</td>
+      <td>35.239092</td>
+      <td>-80.965643</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>87</th>
+      <td>First Ward / Blue Line</td>
+      <td>35.230805</td>
+      <td>-80.833473</td>
+      <td>Silver</td>
+    </tr>
+    <tr>
+      <th>88</th>
+      <td>Charlotte Gateway Station</td>
+      <td>35.231310</td>
+      <td>-80.847730</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>89</th>
+      <td>Derita</td>
+      <td>35.301100</td>
+      <td>-80.805680</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>90</th>
+      <td>Harris</td>
+      <td>35.335180</td>
+      <td>-80.825040</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>Eastfield</td>
+      <td>35.353580</td>
+      <td>-80.822080</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>92</th>
+      <td>Hambright</td>
+      <td>35.377550</td>
+      <td>-80.833610</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>93</th>
+      <td>Huntersville</td>
+      <td>35.410940</td>
+      <td>-80.840990</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>94</th>
+      <td>Sam Furr</td>
+      <td>35.449840</td>
+      <td>-80.843400</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>95</th>
+      <td>Cornelius</td>
+      <td>35.481200</td>
+      <td>-80.857830</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>96</th>
+      <td>Davidson</td>
+      <td>35.500610</td>
+      <td>-80.849800</td>
+      <td>Red</td>
+    </tr>
+    <tr>
+      <th>97</th>
+      <td>Mount Mourne</td>
+      <td>35.547670</td>
+      <td>-80.848950</td>
+      <td>Red</td>
+    </tr>
+  </tbody>
+</table>

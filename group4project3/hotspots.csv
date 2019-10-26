@@ -1,0 +1,207 @@
+﻿id,locations,lat,lon,category
+1,Carowinds,35.1042226,-80.9428109,Attraction
+2,U.S. National Whitewater Center,35.2805738,-80.9869941,Attraction
+3,NASCAR Hall of Fame,35.2213247,-80.8434079,Attraction
+4,Discovery Place Science,35.2292981,-80.8408062,Attraction
+5,Billy Graham Library,35.1903725,-80.9092806,Attraction
+6,Daniel Stowe Botanical Garden,35.1676604,-81.056866,Attraction
+7,Freedom Park,35.1963005,-80.8386454,Attraction
+8,Mint Museum Randolph,35.1973424,-80.8146806,Attraction
+9,Bechtler Museum of Modern Art,35.2245654,-80.8474228,Attraction
+10,The Fury 325,35.1042226,-80.9428109,Attraction
+11,SEA LIFE Centre Charlotte,35.3700689,-80.7239298,Attraction
+12,Discovery Place Nature,35.1881806,-80.8437038,Attraction
+13,McDowell Nature Preserve,35.096093,-81.023133,Attraction
+14,Levine Museum of the New South,35.2281189,-80.8387303,Attraction
+15,Carolina Raptor Center,35.3503447,-80.9184192,Attraction
+16,ImaginOn: The Joe & Joan Martin Center,35.2270185,-80.8376924,Attraction
+17,Latta Place,35.354958,-80.930662,Attraction
+18,Mint Museum UPTOWN,35.224305,-80.848151,Attraction
+19,Harvey B. Gantt Center for African-American Arts + Culture,35.2231342,-80.8479529,Attraction
+20,Camp Snoopy,35.1024691,-80.941329,Attraction
+21,Ray's Splash Planet,35.2381165,-80.8513028,Attraction
+22,Latta Plantation Nature Preserve,35.3558931,-80.909864,Attraction
+23,Romare Bearden Park,35.226967,-80.847322,Attraction
+24,UNC Charlotte Botanical Gardens,35.3078097,-80.7296921,Attraction
+25,Reedy Creek Nature Center & Nature Preserve,35.2767038,-80.7166355,Attraction
+26,The Charlotte Museum of History,35.233535,-80.766542,Attraction
+27,Little Sugar Creek Greenway,35.211682,-80.8355447,Attraction
+28,Discovery Place Kids-Huntersville,35.4104988,-80.8436173,Attraction
+29,Intimidator,35.103266,-80.9437117,Attraction
+30,Frank Liske Park,35.3594474,-80.6245882,Attraction
+31,Copperhead Island,35.106777,-81.027151,Attraction
+32,Thomas McAlister Winget Park,35.135626,-81.002422,Attraction
+33,Stallings Municipal Park,35.0874632,-80.6929531,Attraction
+34,"Four Mile Creek Greenway, Matthews",35.1059242,-80.712105,Attraction
+35,Big Rock Nature Preserve,35.061696,-80.826982,Attraction
+36,Clark's Creek Nature Preserve,35.354041,-80.807889,Attraction
+37,Fourth Ward Park,35.23101,-80.842791,Attraction
+38,Codescape,35.2247073,-80.820737,Attraction
+39,NASCAR Racing Experience,35.3440607,-80.6761657,Attraction
+40,Sherman Branch Mountain Biking Park,35.2364061,-80.6329301,Attraction
+41,Bradford Park,35.4457214,-80.7910965,Attraction
+42,St. Peter Catholic Church,35.2239303,-80.8473278,Attraction
+43,Portal Charlotte,35.2270006,-80.8438984,Attraction
+44,Canaan Zipline Canopy Tours,35.0130841,-81.0002293,Attraction
+45,Trade and Tryon Streets,35.2277533,-80.8428821,Attraction
+46,Festival Of India,35.2275545,-80.8417537,Attraction
+47,Latta Park,35.2096309,-80.8507417,Attraction
+48,Seven Oaks Preserve Trail,35.1566388,-81.0515488,Attraction
+49,Huntersville Athletic Park,35.390351,-80.84491,Attraction
+50,Squirrel Lake Park,35.09969,-80.7230662,Attraction
+51,"K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",35.4034553,-80.7157244,Attraction
+52,McAlpine Creek Greenway Parking and Rest Area,35.0766753,-80.8408832,Attraction
+53,Independence Park,35.214054,-80.8233757,Attraction
+54,Discovery Place Science Parking Deck,35.2303853,-80.8416712,Attraction
+55,Four Mile Creek Greenway,35.0774379,-80.8177139,Attraction
+56,Exit Strategy,35.190118,-80.8878455,Attraction
+57,Clark's Creek Greenway,35.33449,-80.773601,Attraction
+58,Kate's Skating Rinks,35.077345,-80.6544651,Attraction
+59,Hearst Tower,35.2279985,-80.8413468,Attraction
+60,RibbonWalk Nature Preserve,35.29423,-80.8199725,Attraction
+61,Camp North End,35.2476176,-80.8323942,Attraction
+62,LaSalle Street,35.26298,-80.8547,Gold
+63,Russell Av,35.25703,-80.85558,Gold
+64,Booker Avenue/Oaklawn,35.2538,-80.85597,Gold
+65,French Street,35.24685,-80.85679,Gold
+66,Johnson C. Smith University,35.24173,-80.85869,Gold
+67,Bruns Avenue,35.24026,-80.85843,Gold
+68,Wesley Heights Way,35.2371,-80.85866,Gold
+69,Johnson & Wales,35.2338,-80.85113,Gold
+70,Charlotte Gateway Station,35.23131,-80.84773,Gold
+71,Mint Street,35.22942,-80.84566,Gold
+72,Tryon Street,35.2272,-80.84307,Gold
+73,Hawthorne and 5th,35.23285,-80.81108,Gold
+74,Veterans Park,35.21974,-80.80409,Gold
+75,Morningside Drive,35.2193,-80.79923,Gold
+76,Arnold Drive,35.21796,-80.7944,Gold
+77,Briar Creek Road,35.21695,-80.79093,Gold
+78,Eastway Drive,35.21553,-80.78065,Gold
+79,Sheridan Drive,35.21448,-80.77286,Gold
+80,Derby Acres,35.21374,-80.77026,Gold
+81,Landsdale Dr/Rosehaven Dr,35.21247,-80.76433,Gold
+82,Winterfield Place,35.21082,-80.75911,Gold
+83,Eastland Mall,35.19299,-80.76105,Gold
+84,Elizabeth and Hawthorne,35.2129,-80.82559,Gold
+85,Eastway Crossing,35.21591,-80.78447,Gold
+86,Barnhardt,35.22132,-80.81854,Gold
+87,Rosa Parks Place,35.2732,-80.85441,Gold
+88,Montana Dr,35.26828,-80.854,Gold
+89,CTC/Arena,35.22545,-80.84074,Gold
+90,Davidson St,35.2229,-80.83801,Gold
+91,Central Piedmont Community College,35.20272,-80.82971,Gold
+92,McDowell Street,35.22122,-80.83608,Gold
+93,Hawthorne and 8th,35.23285,-80.81108,Gold
+94,The Plaza,35.22026,-80.8108,Gold
+95,Sunnyside,35.21981,-80.81881,Gold
+96,Irwin Avenue,35.23477,-80.85246,Gold
+97,Carson,35.2189047,-80.8518354,Blue
+98,Charlotte Transportation Center/Arena,35.22551,-80.8408697,Blue
+99,I-485/South Blvd,35.1068785,-80.8822372,Blue
+100,Sharon Road West,35.119992,-80.882237,Blue
+101,Arrowood,35.134202,-80.876641,Blue
+102,Archdale,35.15068,-80.876791,Blue
+103,Tyvola,35.1621374,-80.8778377,Blue
+104,Woodlawn,35.1762003,-80.8792882,Blue
+105,Scaleybark,35.192032,-80.875522,Blue
+106,New Bern,35.199771,-80.868959,Blue
+107,East/West,35.2124302,-80.8588616,Blue
+108,Bland St,35.2156759,-80.8553325,Blue
+109,3rd St/Convention Center,35.222255,-80.8454297,Blue
+110,7th St,35.227316,-80.838126,Blue
+111,Stonewall,35.2212868,-80.8469943,Blue
+112,9th Street,35.229536,-80.835229,Blue
+113,Parkwood,35.236962,-80.823927,Blue
+114,25th Street,35.2412926,-80.8173566,Blue
+115,36th Street,35.2493225,-80.806048,Blue
+116,Tom Hunter,35.2777079,-80.766727,Blue
+117,JW Clay Blvd,35.309976,-80.7462621,Blue
+118,Old Concord Rd,35.2620859,-80.772476,Blue
+119,Sugar Creek,35.2516738,-80.7912187,Blue
+120,UNC Charlotte,35.3117307,-80.7337632,Blue
+121,University City Blvd,35.2867468,-80.7611487,Blue
+122,McCullough,35.3007092,-80.7534531,Blue
+123,Third Ward / McNinch St,35.22903501,-80.85607994,Silver
+124,Ashley Rd,35.2242649,-80.89012956,Silver
+125,Airport,35.23548999,-80.94358811,Silver
+126,West Morehead St / Suttle Ave,35.22325991,-80.87230828,Silver
+127,Belmont,35.25133432,-81.02651348,Silver
+128,Matthews Sportsplex,35.1120937,-80.70513449,Silver
+129,Sam Wilson,35.24167941,-80.98263006,Silver
+130,Coliseum / Ovens,35.20371608,-80.79608098,Silver
+131,Fourth Ward / Graham St,35.23532754,-80.84189885,Silver
+132,Matthews Township Parkway,35.12634967,-80.72825131,Silver
+133,Charlotte Gateway Station,35.23098566,-80.84843092,Silver
+134,Village Lake Dr,35.15804741,-80.74870265,Silver
+135,Stafford Dr,35.23366993,-80.9319175,Silver
+136,Pecan Ave,35.21807332,-80.81479933,Silver
+137,Central Ave,35.22087677,-80.82631392,Silver
+138,Conference Dr,35.18179773,-80.75569473,Silver
+139,CPCC Levine,35.10332384,-80.69742148,Silver
+140,Morningside Dr,35.21328262,-80.80343634,Silver
+141,Sardis Rd / Galleria,35.13641361,-80.73775368,Silver
+142,Matthews Downtown / Hospital,35.11950578,-80.71641363,Silver
+143,Remont Rd,35.22401776,-80.88321106,Silver
+144,Wesley Heights / Summit Ave,35.22693341,-80.86484601,Silver
+145,Morris Field Dr,35.22682311,-80.91124593,Silver
+146,Sharon Amity Rd,35.19365496,-80.76628392,Silver
+147,Amity Gardens,35.20097447,-80.77928479,Silver
+148,I-485,35.2390923,-80.96564316,Silver
+149,First Ward / Blue Line,35.23080459,-80.83347308,Silver
+150,Charlotte Gateway Station,35.23131,-80.84773,Red
+151,Derita,35.3011,-80.80568,Red
+152,Harris,35.33518,-80.82504,Red
+153,Eastfield,35.35358,-80.82208,Red
+154,Hambright,35.37755,-80.83361,Red
+155,Huntersville,35.41094,-80.84099,Red
+156,Sam Furr,35.44984,-80.8434,Red
+157,Cornelius,35.4812,-80.85783,Red
+158,Davidson,35.50061,-80.8498,Red
+159,Mount Mourne,35.54767,-80.84895,Red
+160,Abugida Ethiopian Cafe & Resturant,35.21797739,-80.79394151,Restaurants;Ethiopian
+161,Ari's Pizza,35.2495141,-80.77984897,Restaurants;Pizza
+162,Balu's Biryani,35.2270869,-80.8431267,Restaurants;Indian;Caterers;Event Planning & Services
+163,Big City Grill,35.249536,-80.778819,Burgers;American (Traditional);Hot Dogs;Greek;Restaurants
+164,Chili Man,35.226911,-80.843823,Food;Street Vendors;Restaurants;Hot Dogs
+165,Catch On Seafood Market,35.21910065,-80.81379956,Grocery;Food;Specialty Food;Seafood Markets;Seafood;Restaurants
+166,Cheese Steak Place,35.3396225,-80.83414459,Sandwiches;Restaurants
+167,Chicken King,35.24113897,-80.85829295,American (New);Southern;Restaurants
+168,Chicken King,35.255887,-80.8746313,Greek;Restaurants;Burgers;Hot Dogs;Salad;Seafood;Chicken Wings
+169,China Bowl Express,35.239019,-80.883929,Chinese;Restaurants
+170,Cluck 'N Cup,35.218158,-80.856726,Sandwiches;Coffee & Tea;Restaurants;Food;Desserts
+171,Competition Dining: Fire in the City,35.2098526,-80.8572526,American (New);Festivals;Restaurants;Arts & Entertainment
+172,Enat Ethiopian Restaurant,35.2496319,-80.7788517,African;Vegetarian;American (New);Ethiopian;Food;Restaurants
+173,Flagstones,35.15287781,-80.83702087,American (Traditional);Restaurants
+174,Fresh Med Food Truck,35.2150714,-80.8294747,Food;Mediterranean;Restaurants;Greek;Portuguese;Food Trucks
+175,HoneyBaked Ham,35.2968436,-80.7588859,Delis;Event Planning & Services;Restaurants;Specialty Food;Meat Shops;Caterers;Sandwiches;Cafes;Food
+176,Jaylas Gluten Free Cafe,35.167461,-80.849105,Restaurants;Gluten-Free
+177,Katz Deli,35.05432447,-80.81546174,Bagels;Food;Restaurants;Delis;Sandwiches;American (Traditional)
+178,La Espiga,35.2590519,-80.78212604,Restaurants;Bakeries;Cafeteria;Churros;Comfort Food;Food;Mexican
+179,Larry's Restaurant Fish and Seafood House,35.2033384,-80.74401151,Caterers;Comfort Food;Seafood;Vegetarian;Restaurants;Event Planning & Services
+180,Laurene's Cafeteria,35.27315195,-80.85400634,Restaurants;Food;Cafes
+181,Marcos Pizza,35.04171263,-80.8509941,Pizza;Restaurants
+182,MI Barrio's Halal Food Cart,35.30537612,-80.72425168,Halal;Food;Food Trucks;Restaurants
+183,Midwood Pies,35.2263714,-80.7990185,Bakeries;Food;Restaurants;Comfort Food;Desserts
+184,Mojo's Famous Hot Dogs,35.27792011,-80.83493169,Food;American (New);Street Vendors;Restaurants;Hot Dogs
+185,Mr Tokyo Japanese Restaurant,35.3734303,-80.7896698,Japanese;Salad;Restaurants;Sushi Bars
+186,Natural Blendz,35.13556368,-80.73800246,Food;Cafes;Sandwiches;Vegetarian;Soup;Juice Bars & Smoothies;Restaurants
+187,Nicks Steak and Taphouse,35.2273921,-80.8390748,Restaurants;Steakhouses
+188,Nile Ethiopian Restaurant & Grocery,35.2026971,-80.7609726,Ethiopian;Food;Grocery;Restaurants
+189,Papa Murphy's,35.3731343,-80.78832731,Restaurants;Gluten-Free;Pizza
+190,Potbelly BBQ,35.2146586,-80.8599193,Restaurants;Barbeque;Food Trucks;Event Planning & Services;Food;Caterers;Sandwiches
+191,Reign Restaurant & Lounge,35.225217,-80.8362889,Restaurants;Tapas/Small Plates;Nightlife;Cocktail Bars;Bars;Asian Fusion
+192,Spicy Sunshine,35.3065192,-80.8408901,Sandwiches;Restaurants;Caterers;Delis;Event Planning & Services
+193,Stella's Cafe,35.104564,-80.98864,American (Traditional);Cafes;Restaurants
+194,Switchin' Kitchens,35.0394091,-80.7936972,Restaurants;Vegetarian;Food;American (Traditional);Desserts
+195,T2C Smokehouse,35.3352529,-80.7990185,Steakhouses;Party & Event Planning;Food Trucks;Restaurants;Caterers;Smokehouse;Event Planning & Services;Food;Barbeque
+196,Tacos Rick-O,35.197204,-80.799947,Food;Mexican;Restaurants;Food Trucks
+197,Tamales La Pasadita,35.23913747,-80.79831528,Latin American;Tacos;Restaurants;Mexican
+198,Taqueria Los Altos,35.152222,-80.745487,Mexican;Restaurants
+199,Tatsis Restaurant,35.2505974,-80.8270781,American (Traditional);Restaurants
+200,The Cookin Coop,35.2270869,-80.8431267,Breakfast & Brunch;Food;Burgers;Fast Food;Restaurants;Food Trucks
+201,The GyroMan,35.2326781,-80.8460822,Mediterranean;Halal;Food Stands;Restaurants;Greek;Afghan
+202,"The Naked Tart, LLC",35.2263714,-80.7990185,Caterers;Specialty Food;Health Markets;Event Planning & Services;Restaurants;Gluten-Free;Desserts;Food
+203,The Tasty Bowl Subs N Such,35.1328321,-80.9529281,Restaurants;Fast Food;Caribbean;Mexican;Thai;Indian;Sandwiches;Italian
+204,Verona,35.2283649,-80.842652,Restaurants;Italian
+205,Waiter's Choice Catering,35.134436,-80.908506,Caterers;Active Life;Professional Services;Personal Assistants;Party & Event Planning;Restaurants;Event Planning & Services
+206,Yesteryears Goodtime Pub,35.194894,-80.767442,Bars;American (Traditional);Restaurants;Nightlife;Dive Bars

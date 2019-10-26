@@ -1,0 +1,99 @@
+﻿id,location,lat,lon,category
+1,LaSalle Street,35.26298,-80.8547,Gold
+2,Russell Av,35.25703,-80.85558,Gold
+3,Booker Avenue/Oaklawn,35.2538,-80.85597,Gold
+4,French Street,35.24685,-80.85679,Gold
+5,Johnson C. Smith University,35.24173,-80.85869,Gold
+6,Bruns Avenue,35.24026,-80.85843,Gold
+7,Wesley Heights Way,35.2371,-80.85866,Gold
+8,Johnson & Wales,35.2338,-80.85113,Gold
+9,Charlotte Gateway Station,35.23131,-80.84773,Gold
+10,Mint Street,35.22942,-80.84566,Gold
+11,Tryon Street,35.2272,-80.84307,Gold
+12,Hawthorne and 5th,35.23285,-80.81108,Gold
+13,Veterans Park,35.21974,-80.80409,Gold
+14,Morningside Drive,35.2193,-80.79923,Gold
+15,Arnold Drive,35.21796,-80.7944,Gold
+16,Briar Creek Road,35.21695,-80.79093,Gold
+17,Eastway Drive,35.21553,-80.78065,Gold
+18,Sheridan Drive,35.21448,-80.77286,Gold
+19,Derby Acres,35.21374,-80.77026,Gold
+20,Landsdale Dr/Rosehaven Dr,35.21247,-80.76433,Gold
+21,Winterfield Place,35.21082,-80.75911,Gold
+22,Eastland Mall,35.19299,-80.76105,Gold
+23,Elizabeth and Hawthorne,35.2129,-80.82559,Gold
+24,Eastway Crossing,35.21591,-80.78447,Gold
+25,Barnhardt,35.22132,-80.81854,Gold
+26,Rosa Parks Place,35.2732,-80.85441,Gold
+27,Montana Dr,35.26828,-80.854,Gold
+28,CTC/Arena,35.22545,-80.84074,Gold
+29,Davidson St,35.2229,-80.83801,Gold
+30,Central Piedmont Community College,35.20272,-80.82971,Gold
+31,McDowell Street,35.22122,-80.83608,Gold
+32,Hawthorne and 8th,35.23285,-80.81108,Gold
+33,The Plaza,35.22026,-80.8108,Gold
+34,Sunnyside,35.21981,-80.81881,Gold
+35,Irwin Avenue,35.23477,-80.85246,Gold
+36,Carson,35.2189047,-80.8518354,Blue
+37,Charlotte Transportation Center/Arena,35.22551,-80.8408697,Blue
+38,I-485/South Blvd,35.1068785,-80.8822372,Blue
+39,Sharon Road West,35.119992,-80.882237,Blue
+40,Arrowood,35.134202,-80.876641,Blue
+41,Archdale,35.15068,-80.876791,Blue
+42,Tyvola,35.1621374,-80.8778377,Blue
+43,Woodlawn,35.1762003,-80.8792882,Blue
+44,Scaleybark,35.192032,-80.875522,Blue
+45,New Bern,35.199771,-80.868959,Blue
+46,East/West,35.2124302,-80.8588616,Blue
+47,Bland St,35.2156759,-80.8553325,Blue
+48,3rd St/Convention Center,35.222255,-80.8454297,Blue
+49,7th St,35.227316,-80.838126,Blue
+50,Stonewall,35.2212868,-80.8469943,Blue
+51,9th Street,35.229536,-80.835229,Blue
+52,Parkwood,35.236962,-80.823927,Blue
+53,25th Street,35.2412926,-80.8173566,Blue
+54,36th Street,35.2493225,-80.806048,Blue
+55,Tom Hunter,35.2777079,-80.766727,Blue
+56,JW Clay Blvd,35.309976,-80.7462621,Blue
+57,Old Concord Rd,35.2620859,-80.772476,Blue
+58,Sugar Creek,35.2516738,-80.7912187,Blue
+59,UNC Charlotte,35.3117307,-80.7337632,Blue
+60,University City Blvd,35.2867468,-80.7611487,Blue
+61,McCullough,35.3007092,-80.7534531,Blue
+62,Third Ward / McNinch St,35.22903501,-80.85607994,Silver
+63,Ashley Rd,35.2242649,-80.89012956,Silver
+64,Airport,35.23548999,-80.94358811,Silver
+65,West Morehead St / Suttle Ave,35.22325991,-80.87230828,Silver
+66,Belmont,35.25133432,-81.02651348,Silver
+67,Matthews Sportsplex,35.1120937,-80.70513449,Silver
+68,Sam Wilson,35.24167941,-80.98263006,Silver
+69,Coliseum / Ovens,35.20371608,-80.79608098,Silver
+70,Fourth Ward / Graham St,35.23532754,-80.84189885,Silver
+71,Matthews Township Parkway,35.12634967,-80.72825131,Silver
+72,Charlotte Gateway Station,35.23098566,-80.84843092,Silver
+73,Village Lake Dr,35.15804741,-80.74870265,Silver
+74,Stafford Dr,35.23366993,-80.9319175,Silver
+75,Pecan Ave,35.21807332,-80.81479933,Silver
+76,Central Ave,35.22087677,-80.82631392,Silver
+77,Conference Dr,35.18179773,-80.75569473,Silver
+78,CPCC Levine,35.10332384,-80.69742148,Silver
+79,Morningside Dr,35.21328262,-80.80343634,Silver
+80,Sardis Rd / Galleria,35.13641361,-80.73775368,Silver
+81,Matthews Downtown / Hospital,35.11950578,-80.71641363,Silver
+82,Remont Rd,35.22401776,-80.88321106,Silver
+83,Wesley Heights / Summit Ave,35.22693341,-80.86484601,Silver
+84,Morris Field Dr,35.22682311,-80.91124593,Silver
+85,Sharon Amity Rd,35.19365496,-80.76628392,Silver
+86,Amity Gardens,35.20097447,-80.77928479,Silver
+87,I-485,35.2390923,-80.96564316,Silver
+88,First Ward / Blue Line,35.23080459,-80.83347308,Silver
+89,Charlotte Gateway Station,35.23131,-80.84773,Red
+90,Derita,35.3011,-80.80568,Red
+91,Harris,35.33518,-80.82504,Red
+92,Eastfield,35.35358,-80.82208,Red
+93,Hambright,35.37755,-80.83361,Red
+94,Huntersville,35.41094,-80.84099,Red
+95,Sam Furr,35.44984,-80.8434,Red
+96,Cornelius,35.4812,-80.85783,Red
+97,Davidson,35.50061,-80.8498,Red
+98,Mount Mourne,35.54767,-80.84895,Red
